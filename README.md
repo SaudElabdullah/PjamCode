@@ -1,5 +1,5 @@
 ## Getting Started
 
-This repo has some function to speed up the process of writing code in [Pjam](http://acmpsu.com/pjam).
+This repo has some functions to speed writing code in [Pjam](http://acmpsu.com/pjam) contest.
 
 ## Folder Structure
